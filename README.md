@@ -176,7 +176,7 @@ This graph shows that
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/Youtube-Trending-Analysis.git
+git clone https://github.com/Shilpachhatani/YouTube-Trending-Video-Analysis.git
 
 # 2. Navigate to the project directory
 cd Youtube-Trending-Analysis
@@ -195,5 +195,5 @@ Feel free to contribute improvements, feature ideas, or visualizations. Open an 
 
 ## 📬 Contact
 
-- GitHub: `AhsanNFt`
-- Email: syedahsan0991@gmail.com
+- GitHub: `Shilpachhatani`
+- Email: shilpachhatani669@gmail.com
