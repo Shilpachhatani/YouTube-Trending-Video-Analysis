@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview & Task Objective
 
-The `Youtube_Trending_Analysis_Main.ipynb` notebook focuses on analyzing trending YouTube videos to understand patterns behind what makes content popular. The objective is to perform data cleaning, feature engineering, and exploratory analysis to uncover insights related to video trends, engagement, and content characteristics.
+The `Youtube_Trending_Analysis_Dev.ipynb` notebook focuses on analyzing trending YouTube videos to understand patterns behind what makes content popular. The objective is to perform data cleaning, feature engineering, and exploratory analysis to uncover insights related to video trends, engagement, and content characteristics.
 
 ---
 
